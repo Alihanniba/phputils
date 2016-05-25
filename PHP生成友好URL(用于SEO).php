@@ -6,6 +6,7 @@
  * @version \www.alihanniba.com\
  */
 
+
 function friendlyURL($string, $replacement = '-') {
     $map = array(
         '/à|á|å|â|ä/' => 'a',
